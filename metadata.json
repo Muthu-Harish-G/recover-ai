@@ -1,0 +1,6 @@
+{
+  "name": "Recover AI",
+  "description": "Autonomous B2B revenue recovery agent for Razorpay merchants, analyzing failed payment webhooks and formulating bounded, bilingual (English and Tamil) recovery messages for WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
